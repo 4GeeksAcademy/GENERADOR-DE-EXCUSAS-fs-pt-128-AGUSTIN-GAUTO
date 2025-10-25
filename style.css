@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Bitcount+Grid+Single:wght@100..900&display=swap');
+
+body {
+    background-color: rgb(197, 205, 250);
+
+}
+.recuadro {
+    font-family: "Bad Script", cursive;
+    font-size: 30px;
+    display: flex;
+    background-color: rgba(255, 216, 131, 0.705);
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    max-width: 800px;
+    margin: 300px auto;
+     
+}
+
+.ambostextos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
